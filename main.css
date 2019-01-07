@@ -1,13 +1,12 @@
 html {
   background-color: lightGray;
   font: bold 20px 'Century Gothic', sans-serif;
-  color: white;
+  color: black;
 }
 h1,h2 {
-  background-color: lightGray;
-  font: normal 50px 'Trebuchet MS', sans-serif;
+  font: normal 50px 'Century Gothic', sans-serif;
   margin: 0;
-  t
+  text-shadow: -5px 6px blue, 5px 0 red;
 }
 img {
   border: 5px ;
@@ -15,13 +14,12 @@ img {
   width: 280px;
   box-shadow: 0 15px 15px 10px yellow;
   p {
-text-align: justify;
+  margin: 10px 0 15px 0;
+  text-align: justify;
 }
 header,footer {
   background-color: lightGray;
-  font: bold 20px ;
-  color: ;
-}
-p {
-  text-align: justify;
+  border: solid;
+  text-align: center;
+  margin: 0 10px;
 }
