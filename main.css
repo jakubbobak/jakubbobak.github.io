@@ -1,23 +1,27 @@
 html {
-background-color: lightGray;
-font: bold 20px ;
-color: white;
+  background-color: lightGray;
+  font: bold 20px 'Century Gothic', sans-serif;
+  color: white;
 }
-
 h1,h2 {
-background-color: lightGray;
-font: bold 20px ;
-color: ;
+  background-color: lightGray;
+  font: normal 50px 'Trebuchet MS', sans-serif;
+  margin: 0;
+  t
 }
-
 img {
-background-color: lightGray;
-font: bold 20px ;
-color: ;
+  border: 5px ;
+  margin: 10px;
+  width: 280px;
+  box-shadow: 0 15px 15px 10px yellow;
+  p {
+text-align: justify;
 }
-
 header,footer {
-background-color: lightGray;
-font: bold 20px ;
-color: ;
+  background-color: lightGray;
+  font: bold 20px ;
+  color: ;
+}
+p {
+  text-align: justify;
 }
