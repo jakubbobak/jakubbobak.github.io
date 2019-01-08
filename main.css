@@ -4,8 +4,9 @@ html {
   color: black;
 }
 h1,h2 {
-  font: normal 50px 'Century Gothic', sans-serif;
+  font: normal 35px 'Century Gothic', sans-serif;
   margin: 0;
+  text-shadow: 5px red;
 }
 img {
   border: 5px ;
