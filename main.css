@@ -3,10 +3,14 @@ html {
   font: bold 20px 'Century Gothic', sans-serif;
   color: black;
 }
-h1,h2 {
+h1 {
   font: normal 35px 'Century Gothic', sans-serif;
   margin: 0;
-  text-shadow: 5px red;
+  text-shadow: 1px 0 red, -1px 0 blue;
+}
+h2 {
+  font: normal 35px 'Century Gothic', sans-serif;
+  margin: 0;
 }
 img {
   border: 5px ;
